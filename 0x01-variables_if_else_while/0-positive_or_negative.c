@@ -3,13 +3,13 @@
 #include <time.h>
 /**
  *
- *  *main - style doc for function main goes there
+ *main - style doc for function main goes there
  *
- *   *print the result
+ *print the result
  *
- *    *Return: 0
+ *Return: 0
  *
- *     */
+ */
 int main(void)
 {
 	int n;
