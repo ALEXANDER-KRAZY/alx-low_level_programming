@@ -2,10 +2,14 @@
 #include <stdlib.h>
 #include <time.h>
 /**
+ *
  *  *main - style doc for function main goes there
+ *
  *   *print the result
+ *
  *    *Return: 0
- */
+ *
+ *     */
 int main(void)
 {
 	int n;
@@ -19,3 +23,4 @@ int main(void)
 		printf("%d is negative\n", n);
 	return (0);
 }
+
