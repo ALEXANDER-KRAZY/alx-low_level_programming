@@ -6,7 +6,7 @@
  *  *main - style doc for function main goes there
  *   *print the result
  *    *Return: 0
- *     */
+ */
 
 int main(void)
 {
