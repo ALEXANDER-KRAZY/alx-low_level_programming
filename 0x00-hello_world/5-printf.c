@@ -1,12 +1,8 @@
 #include <stdio.h>
 /**
- *
  * main - prints the string
- *
  * but the outcome is a piece of art
- *
  * Return: 0
- *
  */
 int main(void)
 {

@@ -1,10 +1,7 @@
 #include <stdio.h>
 /**
- *
  *main - prints size of data types
- *
  *Return: 0
- *
  */
 int main(void)
 {
