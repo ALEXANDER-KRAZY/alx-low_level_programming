@@ -1,4 +1,5 @@
 #include <stdio.h>
+/* betty style doc for function main goes here */
 /**
  *
  *main - print string
