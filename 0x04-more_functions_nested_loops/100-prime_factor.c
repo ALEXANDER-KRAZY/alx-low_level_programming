@@ -1,9 +1,7 @@
-#include "main.h"
 #include <stdio.h>
 
 /**
- * main - entry block
- * @void: no argument
+ * main - entry point
  * Return: 0
  */
 
