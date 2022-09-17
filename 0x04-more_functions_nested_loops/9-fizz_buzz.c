@@ -28,8 +28,8 @@ int main(void)
 		{
 			printf("%d ", i);
 		}
-	printf("Buzz");					
-	printf("\n");
+	_putchar("Buzz");					
+	_putchar("\n");
 	return (0);
 }
 
